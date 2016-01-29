@@ -4,7 +4,7 @@ myBlog: http://blog.zhangweixiang.com
 ## Blog Source Code
 
 <a href="https://github.com/zwxscience/myCV">https://github.com/zwxscience/myCV</a>
-you can see the effort on <a href="https://zhangweixiang.com/cv">https://zhangweixiang.com/cv/a>
+you can see the effort on <a href="https://zhangweixiang.com/cv">https://zhangweixiang.com/cv</a>
 
 
 ## License
